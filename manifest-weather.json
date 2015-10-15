@@ -14,7 +14,7 @@
         "sizes": "192x192",
         "type": "image/png"
     }],
-    "start_url": "/",
+    "start_url": "/WeatherApp/",
     "display": "standalone",
     "orientation": "portrait"
 }
